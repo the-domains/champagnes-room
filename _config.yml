@@ -1,0 +1,14 @@
+layout_spectrum: 0.885158606339246
+typography_spectrum: 0.3903113005217165
+color:
+  brandStrength: 0.4348329028580338
+  lightness: 0.08708601794205606
+  saturation: 0.20646406570449471
+  rhythmicContrast: 0.34299961756914854
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: "Champagne's Room"
